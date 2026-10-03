@@ -9,15 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        canvas: "#FBF5F4",
+        canvas: "#FAF6F0",
         surface: "#FFFFFF",
-        ink: "#2E2527",
-        "ink-soft": "#7A5F64",
-        border: "#EBCCD2",
-        clay: "#C2566B",
-        "clay-dark": "#A9455A",
-        peach: "#E8A0AE",
-        "peach-soft": "#F6D9DD",
+        ink: "#2B2420",
+        "ink-soft": "#5C534B",
+        border: "#E7DDD0",
+        clay: "#D9723F",
+        "clay-dark": "#B85A2E",
+        peach: "#F2A76B",
+        "peach-soft": "#FBE3C9",
       },
       fontFamily: {
         display: ["var(--font-display)"],
